@@ -4,11 +4,8 @@
 /.pydevproject
 /build
 /.vscode
-subprojects/SDL*/
-subprojects/lib*/
-subprojects/jpeg*/
-subprojects/tif*/
-subprojects/zlib*/
+subprojects/**
+!subprojects/*.wrap
 *~
 
 /subprojects/SDL2-2.0.3/
